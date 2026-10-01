@@ -1,0 +1,13 @@
+period,year,territory_type,territory,value,survey,source,notes
+2004,2004,Brasil,Brasil,6.9,PNAD,https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13935-asi-inseguranca-alimentar-diminui-mas-ainda-atinge-302-dos-domicilios-brasileiros,Percentual domiciliar em insegurança alimentar grave; EBIA.
+2009,2009,Brasil,Brasil,5.0,PNAD,https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13935-asi-inseguranca-alimentar-diminui-mas-ainda-atinge-302-dos-domicilios-brasileiros,Percentual domiciliar em insegurança alimentar grave; EBIA.
+2013,2013,Brasil,Brasil,3.2,PNAD,https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14735-asi-pnad-inseguranca-alimentar-nos-domicilios-cai-de-302-em-2009-para-226-em-2013,Percentual domiciliar em insegurança alimentar grave; EBIA.
+2017–2018,2018,Brasil,Brasil,4.6,POF 2017–2018,https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28896-pof-2017-2018-proporcao-de-domicilios-com-seguranca-alimentar-fica-abaixo-do-resultado-de-2004,Período de coleta 2017–2018; percentual domiciliar em situação grave.
+2019–2022,2020,Brasil,Brasil,,Sem coleta EBIA do IBGE,,Sem estimativa oficial; a linha do gráfico permanece interrompida.
+2023,2023,Brasil,Brasil,4.1,PNAD Contínua 2023,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf,Percentual domiciliar em insegurança alimentar grave; EBIA.
+2024,2024,Brasil,Brasil,3.2,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em insegurança alimentar grave; EBIA.
+2024,2024,Grande Região,Norte,6.3,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em situação grave na região.
+2024,2024,Grande Região,Nordeste,4.8,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em situação grave na região.
+2024,2024,Grande Região,Centro-Oeste,2.8,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em situação grave na região.
+2024,2024,Grande Região,Sudeste,2.3,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em situação grave na região.
+2024,2024,Grande Região,Sul,1.7,PNAD Contínua 2024,https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf,Percentual domiciliar em situação grave na região.

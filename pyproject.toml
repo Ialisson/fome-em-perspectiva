@@ -1,0 +1,13 @@
+[project]
+name = "fome-em-perspectiva"
+version = "1.0.0"
+description = "App interativo de jornalismo de dados sobre insegurança alimentar grave no Brasil"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.format]
+quote-style = "double"
